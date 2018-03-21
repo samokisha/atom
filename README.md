@@ -1,7 +1,7 @@
 # Java Technoatom/Technosphere
 
 
-[![Build Status](https://travis-ci.org/rybalkinsd/atom.png?branch=master)](https://travis-ci.org/rybalkinsd/atom)
+[![Build Status](https://travis-ci.org/samokisha/atom.png?branch=master)](https://travis-ci.org/samokisha/atom)
 
 
 [![](http://icons.iconarchive.com/icons/alecive/flatwoken/32/Apps-Telegram-icon.png) Join chat](https://t.me/joinchat/AAAAAEF63F9PvqE4JDzYdQ) - feel free to contact us  
