@@ -1,7 +1,7 @@
 # Java Technoatom
 
-[![Build Status](https://travis-ci.org/rybalkinsd/atom.png?branch=master)](https://travis-ci.org/rybalkinsd/atom)
-[![Coverage Status](https://coveralls.io/repos/github/rybalkinsd/atom/badge.png?branch=master)](https://coveralls.io/github/rybalkinsd/atom?branch=master)
+[![Build Status](https://travis-ci.org/samokisha/atom.png?branch=homework1)](https://travis-ci.org/samokisha/atom)
+[![Coverage Status](https://coveralls.io/repos/github/samokisha/atom/badge.png?branch=homework1)](https://coveralls.io/github/samokisha/atom?branch=homework1)
 
 [![](http://icons.iconarchive.com/icons/alecive/flatwoken/32/Apps-Telegram-icon.png) Join chat](https://t.me/joinchat/AAAAAEF63F9PvqE4JDzYdQ) - feel free to contact us
 
