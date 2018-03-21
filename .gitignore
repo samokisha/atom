@@ -2,8 +2,10 @@
 /gradle/
 /out/
 build/
+.gradletasknamecache
 
 .idea/
 /*/build/
 /*/classes
 /classes
+/**/*.iml
